@@ -1,0 +1,3 @@
+JDK: es el compilador
+JRE: es el interprete 
+JVM: es la maquina virtual
